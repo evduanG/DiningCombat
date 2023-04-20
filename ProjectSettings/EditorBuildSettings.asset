@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NetWorkScenes.unity
     guid: 2023f19a6e72c644cb0b61880960e94d
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b69a7e4db0d150b4cad08d20f4eeb758
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 66ae44378253f9345b4ad50c12c00825
+  - enabled: 1
+    path: Assets/Scenes/V2DiningCombat.unity
+    guid: 5735c6e077808fa449d57bef5e2b1250
   m_configObjects: {}
