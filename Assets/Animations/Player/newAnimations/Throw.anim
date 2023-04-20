@@ -42335,8 +42335,13 @@ AnimationClip:
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_Events:
+<<<<<<< HEAD
   - time: 0.8333333
     functionName: EnterThrowPoint
+=======
+  - time: 0.73333335
+    functionName: ThrowPoint
+>>>>>>> 837d6fc3c4d85d9a025a7af06b6ee88773813b9c
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
